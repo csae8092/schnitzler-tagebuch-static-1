@@ -1,0 +1,1024 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-tagebuch/editions" xml:id="entry__1915-10-18.xml" prev="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-tagebuch/editions/entry__1915-10-17.xml" next="https://id.acdh.oeaw.ac.at/schnitzler/schnitzler-tagebuch/editions/entry__1915-10-19.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, 18. Oktober 1915</title>
+            <title type="iso-date">1915-10-18</title>
+            <title type="sub">Arthur Schnitzler Tagebuch 1879–1931</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/118609807">
+                  <forename>Arthur</forename>
+                  <surname>Schnitzler</surname>
+               </persName>
+            </author>
+            <editor>
+               <persName ref="http://d-nb.info/gnd/11082959X">
+                  <forename>Peter Michael</forename>
+                  <surname>Braunwarth</surname>
+               </persName>
+            </editor>
+            <respStmt>
+               <resp>Data creation in LaTeX [for print edition] by</resp>
+               <persName ref="http://d-nb.info/gnd/11082959X">
+                  <forename>Peter Michael</forename>
+                  <surname>Braunwarth</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Data transformation to XML by</resp>
+               <persName ref="http://d-nb.info/gnd/1122262531">
+                  <forename>Matej</forename>
+                  <surname>Ďurčo</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Data collation, structural and semantic annotation by</resp>
+               <persName ref="http://d-nb.info/gnd/11082959X">
+                  <forename>Peter Michael</forename>
+                  <surname>Braunwarth</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Data transformation to TEI by</resp>
+               <persName ref="http://d-nb.info/gnd/1043833846">
+                  <forename>Peter</forename>
+                  <surname>Andorfer</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Index collation of mentioned places</resp>
+               <persName ref="https://www.oeaw.ac.at/acdh/team/current-team/ulrike-czeitschner/">
+                  <forename>Ulrike</forename>
+                  <surname>Czeitschner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Index corrections</resp>
+               <persName ref="https://www.oeaw.ac.at/acdh/team/current-team/martin-kirnbauer/">
+                  <forename>Martin</forename>
+                  <surname>Kirnbauer</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Index collation and corrections</resp>
+               <persName ref="http://d-nb.info/gnd/1050382196">
+                  <forename>Martin Anton</forename>
+                  <surname>Müller</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                        Sciences</orgName>
+               <address>
+                  <addrLine>Sonnenfelsgasse 19</addrLine>
+                  <addrLine>1010 Vienna</addrLine>
+               </address>
+            </publisher>
+            <publisher>
+               <orgName>Verlag der Österreichischen Akademie der Wissenschaften</orgName>
+            </publisher>
+            <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+            <date when="2017">2017</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                  <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+               </licence>
+            </availability>
+            
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/21.11115/0000-000C-060E-F</tei:idno>
+            </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="m">Tagebuch 1913-1916</title>
+                  <idno type="ISBN">978-3-7001-0601-2</idno>
+                  <author>
+                     <persName>
+                        <forename>Arthur</forename>
+                        <surname>Schnitzler</surname>
+                     </persName>
+                  </author>
+                  <editor>
+                     <persName>
+                        <forename>Werner</forename>
+                        <surname>Welzig</surname>
+                     </persName>
+                     <affiliation>Obmann der <orgName>Kommission für literarische
+                                Gebrauchsformen der Österreichischen Akademie der
+                                Wissenschaften</orgName>
+                     </affiliation>
+                  </editor>
+                  <respStmt>
+                     <resp>Unter Mitwirkung von</resp>
+                     <persName>
+                        <forename>Peter Michael</forename>
+                        <surname>Braunwarth</surname>
+                     </persName>
+                     <persName>
+                        <forename>Susanne</forename>
+                        <surname>Pertlik</surname>
+                     </persName>
+                     <persName>
+                        <forename>Reinhard</forename>
+                        <surname>Urbach</surname>
+                     </persName>
+                  </respStmt>
+                  <imprint>
+                     <publisher>
+                        <orgName>Verlag der Österreichischen Akademie der
+                                    Wissenschaften</orgName>
+                        <orgName>Kommission für literarische Gebrauchsformen der
+                                    Österreichischen Akademie der Wissenschaften</orgName>
+                     </publisher>
+                     <pubPlace>
+                        <placeName>Wien</placeName>
+                     </pubPlace>
+                     <date when="1983">1983</date>
+                  </imprint>
+                  <biblScope unit="volume">1913-1916</biblScope>
+                  <biblScope unit="pages">230–231</biblScope>
+                  <extent>
+                     <measure type="pages">432</measure>
+                  </extent>
+               </monogr>
+               <series>
+                  <title level="s">Tagebuch 1879-1931 - Gesamtausgabe</title>
+                  <idno type="ISBN">978-3-7001-0395-0</idno>
+                  <editor>
+                     <orgName>Verlag der Österreichischen Akademie der
+                                Wissenschaften</orgName>
+                     <orgName>Kommission für literarische Gebrauchsformen der
+                                Österreichischen Akademie der Wissenschaften</orgName>, Obmann:
+                            <persName>Werner Welzig</persName>. Unter Mitwirkung von
+                            <persName>Peter Michael Braunwarth</persName>, <persName>Susanne
+                                Pertlik</persName> und <persName>Reinhard Urbach</persName>
+                  </editor>
+                  <biblScope unit="volume">Band 1-10</biblScope>
+               </series>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Annotation according to TEI/P5.</p>
+            <hyphenation eol="none">
+               <p>All end-of-line hyphenation has been removed: any remaining hyphenation occurred within the line</p>
+            </hyphenation>
+            <interpretation>
+               <p>personal names, place names, dates</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc/>
+   </teiHeader>
+   <facsimile>
+      <graphic url="https://id.acdh.oeaw.ac.at/schnitzler/faksimiles/tagebuch/4123.tif"/>
+      <graphic url="https://id.acdh.oeaw.ac.at/schnitzler/faksimiles/tagebuch/4124.tif"/>
+      <graphic url="https://id.acdh.oeaw.ac.at/schnitzler/faksimiles/tagebuch/4125.tif"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="diary-day" xml:id="entry__1915-10-18">
+            <p xml:space="preserve"><date when="1915-10-18">18/10</date> Vm.: Passbureau, Consulat (Dr. <rs type="person" xml:id="pNt_46562" ref="#person_13091"><surname>Adler</surname></rs>, über die Chancen der 
+Kriegsbeendigung), allerlei Begegnungen: <rs type="person" xml:id="pNt_46563" ref="#person_16366"><forename>Risa</forename> <surname>Horn</surname></rs> (nach Jahren ― 
+Kinder, altwerden u. dergl.) ― <rs type="person" xml:id="pNt_46564" ref="#person_17364"><roleName>Director</roleName> <surname>Lautenburg</surname></rs> (über die 3 Stücke, 
+Aufführung;― „gibt es in <rs type="place" xml:id="pl_09637" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> so coupable Frauen ―?“ Ich: Auch in 
+<rs type="place" xml:id="pl_09638" ref="#place_1b388e3352c32b76b8d975c4d3625070">Wien</rs> und <rs type="place" xml:id="pl_09639" ref="#place_59c873cea16c6a7279ea87f99cd1ddaa">Elberfeld</rs>.― Die falsche Darstellung des <rs type="work" subtype="self" xml:id="bibl_8400">Bachusfestes</rs>. Ich geb 
+es zu: ― Zuerst sollen sich die Leute dabei unterhalten, später sollen 
+sie’s verstehn), <rs type="person" xml:id="pNt_46565" ref="#person_19501"><roleName>Frau</roleName> <surname>Sachs</surname></rs> („Die Dichter wissen doch mehr von uns als die 
+andern Menschen; und man dankt ihnen nicht genug.“) ― Frau <rs type="person" xml:id="pNt_46566" ref="#person_16706"><forename>Adele</forename> <surname>Kapper</surname></rs> 
+mit ihrer Tochter (die dichtet.― <rs type="person" xml:id="pNt_46567"><roleName>Frau</roleName> <surname>K.</surname></rs>: „Ihre Frau muss es gut haben,― 
+herumreisen mit Ihnen …“) ― <rs type="person" xml:id="pNt_46568" ref="#person_13635"><roleName>Baron</roleName> <surname>Berger</surname></rs> (Complimente über die <rs type="work" subtype="self" xml:id="bibl_8401">K. d. W.</rs> 
+„meine Tochter wird jetzt auch aufgeführt, <rs type="person" xml:id="pNt_46569" ref="#person_20714"><surname>Thimig</surname></rs> hats angenommen … sie 
+möchte Sie so gern kennen lernen ―“ Ihr Bruder hat’s mich s. Z. lesen 
+lassen ―) ― Schlafwagenplätze für <rs type="place" xml:id="pl_09640" ref="#place_ee1611b61f5688e70c12b40684dbb395">Berlin</rs>. Endlich in die Länderbank, 
+mir bei <rs type="person" xml:id="pNt_46570" ref="#person_17425"><forename>Max</forename> <surname>Leitner</surname></rs> Mark einwechseln;― mir entgegen stürzt der mir ganz 
+oberflächlich bekannte Tenor <rs type="person" xml:id="pNt_46571" ref="#person_21251"><forename>Fritz</forename> <surname>Werner</surname></rs> ― umarmt und küsst mich!― 
+„Goldner Arthur ― schreiben Sie mir einmal ein Stück ―“ Auch die 
+Musik ―?― „Nicht notwendig ― ich bin kein Fatzke.“― Und wiederholt 
+immer „goldner Arthur“ ― Kurz: traurige Folgen eines Erfolgs.― In der 
+Tram Feuilletons über die <rs type="work" subtype="self" xml:id="bibl_8402">K. d. W.</rs> U. a. eins in dem mir vorgeworfen wird, 
+ich lungere zu viel in den Salons herum,― sei aber ein gebildeter Mensch 
+und könnte besseres schreiben ― ― <rs type="person" xml:id="pNt_46572" ref="#person_18856"><surname>Polgar</surname></rs>, matt lausbübisch.― 
+Vollkommene Gleichgiltigkeit gegen alles Geschwätz.―</p>
+            <p xml:space="preserve" rend="indent">Panorama (<rs type="place" xml:id="pl_09641" ref="#place_5a37c2c58a8f021590f7407492f9c38f">Ampezzothal</rs>).</p>
+            <p xml:space="preserve" rend="indent">― Mit O. Lieder.―</p>
+            <p xml:space="preserve" rend="indent">Zum Thee <rs type="person" xml:id="pNt_46573" ref="#person_18517"><forename>Siegfried</forename> <surname>Ochs</surname></rs> mit <rs type="person" xml:id="pNt_46574" ref="#person_20238"><forename>Richard</forename> <surname>Specht</surname></rs>. <rs type="person" xml:id="pNt_46575" ref="#person_18517"><surname>Ochs</surname></rs> hatte „<rs type="work" subtype="self" xml:id="bibl_8403">Weg ins freie</rs>“ 
+gelesen ― müßte mir sagen, wie sehr etc. ― sprach aber netter 
+Weise gar nichts davon;― wir plauderten meist von Erfahrungen mit jungen 
+Autoren und Componisten.―</p>
+            <p xml:space="preserve" rend="indent">In <rs type="place" xml:id="pl_09642" ref="#place_87809c954948d8a20507bee3648281b3">New York</rs> Irving Place Theatre eröffnet mit „<rs type="work" subtype="self" xml:id="bibl_8404">Das weite Land</rs>“. 
+(<rs type="person" xml:id="pNt_46576" ref="#person_17046"><surname>Korff</surname></rs>.―) ―</p>
+            <p xml:space="preserve" rend="indent">Mit O. bei <rs type="person" xml:id="pNt_46577" ref="#person_19827"><forename>Julius’</forename></rs>; <rs type="person" xml:id="pNt_46578" ref="#person_15855"><surname>Hajeks</surname></rs>.― <rs type="person" xml:id="pNt_46579"><forename>Annie</forename></rs> zeigt mir eine <rs type="work" xml:id="bibl_8405">Literaturgeschichte</rs> von 
+<rs type="person" xml:id="pNt_46580" ref="#person_14168"><surname>Cerny</surname></rs> für Mädchenschulen,― mit dem alten Schwachsinn über mich. 
+Charakteristisch dass alle die jetzt approbirten Literaturgeschichten 
+antisemit. Tendenz zeigen, rückwirkend bis auf <rs type="person" xml:id="pNt_46581" ref="#person_16047"><surname>Heine</surname></rs>.― Allerlei 
+Kriegsgräuelgeschichten.―</p>
+            <p xml:space="preserve" rend="indent">Mein schlechtes Hören zum verzweifeln; besonders abends.</p>
+            <p xml:space="preserve" rend="indent">― Lese <rs type="work" xml:id="bibl_8406"><rs type="person" xml:id="pNt_46582"><surname>Voltaire</surname></rs></rs> von <rs type="person" xml:id="pNt_46583" ref="#person_18916"><surname>Popper</surname></rs>; <rs type="person" xml:id="pNt_46584" ref="#person_20772"><surname>Tolstoi</surname></rs> <rs type="work" xml:id="bibl_8407">Krieg und Frieden</rs>.― <rs type="person" xml:id="pNt_46585" ref="#person_14316"><surname>Csokors</surname></rs> 
+„<rs type="work" xml:id="bibl_8408">großen Kampf</rs>“ (nicht ganz unbegabter Esel), <rs type="person" xml:id="pNt_46586" ref="#person_17230"><surname>Kyser</surname></rs>, <rs type="work" xml:id="bibl_8409">Charlotte Stieglitz</rs> 
+<pb n="231"/>
+<tei:fw xmlns:tei="http://www.tei-c.org/ns/1.0" type="header"><fw place="top_center"><date type="range">1915: X 18 - X 23</date></fw> <fw n="231" place="top_right" type="pageNum">231</fw></tei:fw>
+(mühseliges Literatengewäsch, an leidlichen Mustern gebildet, von falscher 
+Seelenvornehmheit).―</p>
+         </div>
+      </body>
+   
+    <back><listPerson><person xml:id="person_13091">
+                  <persName>
+                     <surname>Adler</surname>
+                     <forename>Adolf</forename>
+                  </persName>
+                  <birth>
+                     <date when="1860-09-05">5. 9. 1860</date>
+                  </birth>
+                  <death>
+                     <date when="1937-10-24">24. 10. 1937</date>
+                  </death>
+                  <occupation code="106">Rechtsanwalt/Rechtsanwältin</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13091</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/13231</idno>
+               </person>
+               <person xml:id="person_14168">
+                  <persName>
+                     <surname>Černy</surname>
+                     <forename>Johann</forename>
+                  </persName>
+                  <birth>
+                     <date when="1877-02-07">7. 2. 1877</date>
+                     <placeName>
+                        <settlement>Zahrádka</settlement>
+                        <idno type="PMB">#pmb19227</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1945-01-01">1945</date>
+                  </death>
+                  <occupation code="260">Gymnasiallehrer/Gymnasiallehrerin</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14168</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/27657</idno>
+               </person>
+               <person xml:id="person_14316">
+                  <persName>
+                     <surname>Csokor</surname>
+                     <forename>Franz Theodor</forename>
+                  </persName>
+                  <birth>
+                     <date when="1885-09-06">6. 9. 1885</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1969-01-05">5. 1. 1969</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller/Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118522914/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14316</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11120</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/11120</idno>
+               </person>
+               <person xml:id="person_15855">
+                  <persName>
+                     <surname>Hajek</surname>
+                     <forename>Markus</forename>
+                  </persName>
+                  <birth>
+                     <date when="1861-11-25">25. 11. 1861</date>
+                     <placeName>
+                        <settlement>Vršac</settlement>
+                        <idno type="PMB">#pmb46727</idno>
+                        <idno type="geonames">https://www.geonames.org/784136/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1941-04-04">4. 4. 1941</date>
+                     <placeName>
+                        <settlement>London</settlement>
+                        <idno type="PMB">#pmb224</idno>
+                        <idno type="geonames">https://www.geonames.org/2643743/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="97">Mediziner</occupation>
+                  <occupation code="132">Laryngologe</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/143163604/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15855</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2284</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2284</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/2284</idno>
+               </person>
+               <person xml:id="person_16047">
+                  <persName>
+                     <surname>Heine</surname>
+                     <forename>Heinrich</forename>
+                  </persName>
+                  <birth>
+                     <date when="1797-12-13">13. 12. 1797</date>
+                     <placeName>
+                        <settlement>Düsseldorf</settlement>
+                        <idno type="PMB">#pmb863</idno>
+                        <idno type="geonames">https://www.geonames.org/2934246/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1856-02-17">17. 2. 1856</date>
+                     <placeName>
+                        <settlement>Paris</settlement>
+                        <idno type="PMB">#pmb182</idno>
+                        <idno type="geonames">https://www.geonames.org/2988507/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118548018/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16047</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11640</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11640</idno>
+                  <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb11640.html</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/11640</idno>
+               </person>
+               <person xml:id="person_16706">
+                  <persName>
+                     <surname>Kapper</surname>
+                     <forename>Adele</forename>
+                  </persName>
+                  <birth>
+                     <date when="1870-01-25">25. 1. 1870</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1941-01-01">1941</date>
+                     <placeName>
+                        <settlement>Vernichtungslager Maly Trostinez</settlement>
+                        <idno type="PMB">#pmb4549</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </death>
+                  <sex>female</sex>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16706</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb19096</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb19096</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/19096</idno>
+               </person>
+               <person xml:id="person_17046">
+                  <persName>
+                     <surname>Korff</surname>
+                     <forename>Arnold</forename>
+                  </persName>
+                  <birth>
+                     <date when="1868-08-02">2. 8. 1868</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1944-06-02">2. 6. 1944</date>
+                     <placeName>
+                        <settlement>New York City</settlement>
+                        <idno type="PMB">#pmb44053</idno>
+                        <idno type="geonames">https://www.geonames.org/5128581/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="105">Schauspieler</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/101334071X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17046</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2249</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2249</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/2249</idno>
+               </person>
+               <person xml:id="person_17364">
+                  <persName>
+                     <surname>Lautenburg</surname>
+                     <forename>Sigmund</forename>
+                  </persName>
+                  <birth>
+                     <date when="1851-09-11">11. 9. 1851</date>
+                     <placeName>
+                        <settlement>Budapest</settlement>
+                        <idno type="PMB">#pmb43471</idno>
+                        <idno type="geonames">https://www.geonames.org/3054638/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1918-07-21">21. 7. 1918</date>
+                     <placeName>
+                        <settlement>Marienbad</settlement>
+                        <idno type="PMB">#pmb772</idno>
+                        <idno type="geonames">https://www.geonames.org/11428205/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="103">Theaterleiter</occupation>
+                  <occupation code="105">Schauspieler</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/116769068/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17364</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2598</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2598</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/2598</idno>
+               </person>
+               <person xml:id="person_18856">
+                  <persName>
+                     <surname>Polgar</surname>
+                     <forename>Alfred</forename>
+                  </persName>
+                  <birth>
+                     <date when="1873-10-17">17. 10. 1873</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1955-04-24">24. 4. 1955</date>
+                     <placeName>
+                        <settlement>Zürich</settlement>
+                        <idno type="PMB">#pmb484</idno>
+                        <idno type="geonames">https://www.geonames.org/2657896/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller</occupation>
+                  <occupation code="99">Journalist</occupation>
+                  <occupation code="100">Kritiker</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118595474/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18856</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2989</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2989</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/2989</idno>
+               </person>
+               <person xml:id="person_18916">
+                  <persName>
+                     <surname>Popper-Lynkeus</surname>
+                     <forename>Josef</forename>
+                  </persName>
+                  <birth>
+                     <date when="1838-02-21">21. 2. 1838</date>
+                     <placeName>
+                        <settlement>Kolín</settlement>
+                        <idno type="PMB">#pmb46463</idno>
+                        <idno type="geonames">https://www.geonames.org/3073371/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1921-12-22">22. 12. 1921</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118595822/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18916</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2135</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2135</idno>
+                  <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2135.html</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/2135</idno>
+               </person>
+               <person xml:id="person_19827">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Julius</forename>
+                  </persName>
+                  <birth>
+                     <date when="1865-07-13">13. 7. 1865</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1939-06-29">29. 6. 1939</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="364">Chirurg</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/116848693/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19827</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12698</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12698</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/12698</idno>
+               </person>
+               <person xml:id="person_20714">
+                  <persName>
+                     <surname>Thimig</surname>
+                     <forename>Hugo</forename>
+                  </persName>
+                  <birth>
+                     <date when="1854-06-16">16. 6. 1854</date>
+                     <placeName>
+                        <settlement>Dresden</settlement>
+                        <idno type="PMB">#pmb866</idno>
+                        <idno type="geonames">https://www.geonames.org/2935020/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1944-09-24">24. 9. 1944</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="103">Theaterleiter</occupation>
+                  <occupation code="105">Schauspieler</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/11875713X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20714</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12948</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12948</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/12948</idno>
+               </person>
+               <person xml:id="person_21251">
+                  <persName>
+                     <surname>Werner</surname>
+                     <forename>Fritz</forename>
+                  </persName>
+                  <birth>
+                     <date when="1871-11-18">18. 11. 1871</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1940-07-01">1940</date>
+                  </death>
+                  <occupation code="107">Sänger</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/117298247/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21251</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13100</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/13100</idno>
+               </person>
+               <person xml:id="person_14481">
+                  <persName>
+                     <surname>Donath</surname>
+                     <forename>Anna</forename>
+                  </persName>
+                  <birth>
+                     <date when="1900-01-23">23. 1. 1900</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1995-12-27">27. 12. 1995</date>
+                     <placeName>
+                        <settlement>Cincinnati</settlement>
+                        <idno type="PMB">#pmb45709</idno>
+                        <idno type="geonames">https://www.geonames.org/4508722/</idno>
+                     </placeName>
+                  </death>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14481</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/15430</idno>
+               </person>
+               <person xml:id="person_16366">
+                  <persName>
+                     <surname>Horn</surname>
+                     <forename>Therese</forename>
+                  </persName>
+                  <birth>
+                     <date when="1878-06-26">26. 6. 1878</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1939-03-02">2. 3. 1939</date>
+                     <placeName>
+                        <settlement>Paris</settlement>
+                        <idno type="PMB">#pmb182</idno>
+                        <idno type="geonames">https://www.geonames.org/2988507/</idno>
+                     </placeName>
+                  </death>
+                  <sex>female</sex>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16366</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb18530</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb18530</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/18530</idno>
+               </person>
+               <person xml:id="person_17230">
+                  <persName>
+                     <surname>Kyser</surname>
+                     <forename>Hans</forename>
+                  </persName>
+                  <birth>
+                     <date when="1882-07-22">22. 7. 1882</date>
+                     <placeName>
+                        <settlement>Grudziądz</settlement>
+                        <idno type="PMB">#pmb48593</idno>
+                        <idno type="geonames">https://www.geonames.org/3098218/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1940-10-21">21. 10. 1940</date>
+                     <placeName>
+                        <settlement>Berlin</settlement>
+                        <idno type="PMB">#pmb168</idno>
+                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/116634472/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17230</idno>
+                  <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb8386.html</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/8386</idno>
+               </person>
+               <person xml:id="person_17425">
+                  <persName>
+                     <surname>Leitner</surname>
+                     <forename>Max</forename>
+                  </persName>
+                  <birth>
+                     <date when="1858-09-08">8. 9. 1858</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1935-02-08">8. 2. 1935</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="235">Bankangestellte</occupation>
+                  <sex>male</sex>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17425</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/20270</idno>
+               </person>
+               <person xml:id="person_19501">
+                  <persName>
+                     <surname>Sachs</surname>
+                     <forename>Emma</forename>
+                  </persName>
+                  <birth>
+                     <date when="1868-08-16">16. 8. 1868</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <sex>female</sex>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19501</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27890</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/23836</idno>
+               </person>
+               <person xml:id="person_20238">
+                  <persName>
+                     <surname>Specht</surname>
+                     <forename>Richard</forename>
+                  </persName>
+                  <birth>
+                     <date when="1870-12-07">7. 12. 1870</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1932-03-18">18. 3. 1932</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller</occupation>
+                  <occupation code="99">Journalist</occupation>
+                  <occupation code="100">Kritiker</occupation>
+                  <occupation code="158">Musikwissenschaftler</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/117481947/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20238</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2456</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2456</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/2456</idno>
+               </person>
+               <person xml:id="person_20772">
+                  <persName>
+                     <surname>Tolstoi</surname>
+                     <forename>Leo N. von</forename>
+                  </persName>
+                  <birth>
+                     <date when="1828-09-09">9. 9. 1828</date>
+                     <placeName>
+                        <settlement>Yasnaya Polyana</settlement>
+                        <idno type="PMB">#pmb59327</idno>
+                        <idno type="geonames">https://www.geonames.org/468691/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1910-11-20">20. 11. 1910</date>
+                     <placeName>
+                        <settlement>Lev Tolstoy</settlement>
+                        <idno type="PMB">#pmb59329</idno>
+                        <idno type="geonames">https://www.geonames.org/535417/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/11864291X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3739</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3739</idno>
+                  <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb3739.html</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/3739</idno>
+               </person>
+               <person xml:id="person_13635">
+                  <persName>
+                     <surname>Berger</surname>
+                     <forename>Wilhelm von</forename>
+                  </persName>
+                  <birth>
+                     <date when="1849-09-13">13. 9. 1849</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1917-06-03">3. 6. 1917</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="90">Schriftsteller/Schriftstellerin</occupation>
+                  <occupation code="95">Politiker/Politikerin</occupation>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13635</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/14074</idno>
+               </person>
+               <person xml:id="person_18517">
+                  <persName>
+                     <surname>Ochs</surname>
+                     <forename>Siegfried</forename>
+                  </persName>
+                  <birth>
+                     <date when="1858-04-19">19. 4. 1858</date>
+                     <placeName>
+                        <settlement>Frankfurt am Main</settlement>
+                        <idno type="PMB">#pmb146</idno>
+                        <idno type="geonames">https://www.geonames.org/2925533/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1929-02-05">5. 2. 1929</date>
+                     <placeName>
+                        <settlement>Berlin</settlement>
+                        <idno type="PMB">#pmb168</idno>
+                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="129">Komponist</occupation>
+                  <occupation code="131">Dirigent</occupation>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/11707988X/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18517</idno>
+                  <idno type="pmb">https://pmb.acdh.oeaw.ac.at/entity/9124</idno>
+               </person>
+               </listPerson><listBibl><bibl xml:id="pmb30717">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Komödie der Worte. Drei
+                     Einakter</title>
+                  <date from="1915-01-01" from-custom="1915">1915</date>
+                  <gloss type="w1058">Einakterzyklus</gloss>
+                  <note>8142</note>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30717.html</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30717</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30717</idno>
+               </bibl>
+               <bibl xml:id="pmb32097">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Das Bacchusfest</title>
+                  <date from="1915-01-01" from-custom="1915">1915</date>
+                  <gloss type="w1057">Einakter</gloss>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb32097.html</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32097</idno>
+               </bibl>
+               <bibl xml:id="pmb30207">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Das weite Land. Tragikomödie in
+                     fünf Akten</title>
+                  <date from="1910-10-20" from-custom="1910-10-20">20. 10. 1910</date>
+                  <gloss type="w1056">Mehraktiges Drama</gloss>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q1171735/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb30207.html</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30207</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30207</idno>
+               </bibl>
+               <bibl xml:id="pmb29923">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Der Weg ins Freie. Roman</title>
+                  <date from="1908-01-01" from-custom="1.1.1908" to="1908-06-01" to-custom="1.6.1908">1. 1. 1908–1. 6. 1908</date>
+                  <gloss type="w1060">Roman</gloss>
+                  <note>2849</note>
+                  <note>8047</note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q700479/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb29923.html</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29923</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29923</idno>
+               </bibl>
+               <bibl xml:id="pmb80287">
+                  <author role="author">
+                     <persName>
+                        <surname>Černy</surname>
+                        <forename>Johann</forename>
+                     </persName>
+                     <idno type="pmb">pmb27657</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14168</idno>
+                  </author>
+                  <title>Die deutsche Dichtung. Grundzüge
+                     der deutschen Literaturgeschichte für höhere Schulen</title>
+                  <gloss type="w1800"/>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb80287.html</idno>
+               </bibl>
+               <bibl xml:id="pmb31309">
+                  <author role="author">
+                     <persName>
+                        <surname>Csokor</surname>
+                        <forename>Franz Theodor</forename>
+                     </persName>
+                     <idno type="pmb">pmb11120</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118522914/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14316</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11120</idno>
+                  </author>
+                  <title>Der große Kampf</title>
+                  <date from="1915-01-01" from-custom="1915">1915</date>
+                  <gloss type="w1055">Text</gloss>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb31309.html</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31309</idno>
+               </bibl>
+               <bibl xml:id="pmb78949">
+                  <author role="author">
+                     <persName>
+                        <surname>Kyser</surname>
+                        <forename>Hans</forename>
+                     </persName>
+                     <idno type="pmb">pmb8386</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/116634472/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17230</idno>
+                     <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb8386.html</idno>
+                  </author>
+                  <title>Charlotte Stieglitz</title>
+                  <gloss type="w1097">Drama</gloss>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78949.html</idno>
+               </bibl>
+               <bibl xml:id="pmb78110">
+                  <author role="author">
+                     <persName>
+                        <surname>Popper-Lynkeus</surname>
+                        <forename>Josef</forename>
+                     </persName>
+                     <idno type="pmb">pmb2135</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118595822/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18916</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2135</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2135</idno>
+                     <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2135.html</idno>
+                  </author>
+                  <title>Voltaire. Eine Charakteranalyse,
+                     in Verbindung mit Studien zur Ästhetik, Moral und Politik</title>
+                  <note>15556</note>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb78110.html</idno>
+                  <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb78110.html</idno>
+               </bibl>
+               <bibl xml:id="pmb34996">
+                  <author role="author">
+                     <persName>
+                        <surname>Tolstoi</surname>
+                        <forename>Leo N. von</forename>
+                     </persName>
+                     <idno type="pmb">pmb3739</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11864291X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20772</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3739</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3739</idno>
+                     <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb3739.html</idno>
+                  </author>
+                  <title>Krieg und Frieden</title>
+                  <date from="1863-01-01" from-custom="1863" to="1867-01-01" to-custom="1867">1863–1867</date>
+                  <gloss type="w1060">Roman</gloss>
+                  <note>6240</note>
+                  <note>13148</note>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/pmb34996.html</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34996</idno>
+                  <idno type="schnitzler-lektueren">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb34996.html</idno>
+               </bibl>
+               </listBibl><listPlace><place xml:id="place_1b388e3352c32b76b8d975c4d3625070">
+            <placeName type="city">Wien</placeName>
+            <location>
+               <geo decls="#LatLng">48.20849 16.37208</geo>
+            </location>
+            <idno type="geonames">http://www.geonames.org/2761369/</idno>
+         </place>
+         <place xml:id="place_59c873cea16c6a7279ea87f99cd1ddaa">
+            <placeName type="city">Elberfeld</placeName>
+            <location>
+               <geo decls="#LatLng">51.25627 7.14816</geo>
+            </location>
+            <idno type="geonames">http://www.geonames.org/2931276/</idno>
+            <note type="done"/>
+         </place>
+         <place xml:id="place_ee1611b61f5688e70c12b40684dbb395">
+            <placeName type="city">Berlin</placeName>
+            <location>
+               <geo decls="#LatLng">52.52437 13.41053</geo>
+            </location>
+            <idno type="geonames">http://www.geonames.org/2950159/</idno>
+         </place>
+         <place xml:id="place_5a37c2c58a8f021590f7407492f9c38f">
+            <placeName type="river">Ampezzothal</placeName>
+            <placeName type="alt">Valle d’Ampezzo</placeName>
+            <location>
+               <geo decls="#LatLng">46.49056 12.17889</geo>
+            </location>
+            <idno type="geonames">http://www.geonames.org/3183104/</idno>
+         </place>
+         <place xml:id="place_87809c954948d8a20507bee3648281b3">
+            <placeName type="city">New York</placeName>
+            <location>
+               <geo decls="#LatLng">40.71427 -74.00597</geo>
+            </location>
+            <idno type="geonames">http://www.geonames.org/5128581/</idno>
+         </place>
+         </listPlace></back></text>
+</TEI>
